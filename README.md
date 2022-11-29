@@ -1,6 +1,8 @@
 # Development
 
 ### Link to Deployed Website: https://activebunny123.github.io/hwk-development/
+This is the working website created in the original depository with my Brown account added as contributor.
+The current repository is annonymous and contains all my code from the original depository, but it doesn't have any npm modules.
 
 ### Goal and Value of the Application
 This application is designed to be a menu page for a dim sum restaurant. 
